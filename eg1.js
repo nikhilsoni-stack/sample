@@ -9,3 +9,4 @@ var arr=[3,4,5];
 var bound = add.bind(obj);
 console.log(bound(3,4,5));         //output : 14 
 console.log(obj.add(3,4,5));
+something add more
