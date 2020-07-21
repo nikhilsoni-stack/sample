@@ -6,3 +6,4 @@ add added for fetching
 testing for fetch origin
 pata nh fetch 
 rate ke bage he 12 
+chek for commit count
