@@ -5,3 +5,4 @@ branch add some thing
 add added for fetching
 testing for fetch origin
 pata nh fetch 
+rate ke bage he 12 
